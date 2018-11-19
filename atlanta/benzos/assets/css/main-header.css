@@ -1,0 +1,67 @@
+.header {
+  padding: 20px 0;
+}
+
+.header .photo-tour-container {
+  padding: 100px 0;
+  background: transparent url("../../assets/img//1-desktop-home-page-1800w.jpg") no-repeat center center;
+  background-size: cover;
+  margin-top: 0;
+}
+
+a:visited {
+  color: #7b1a9a;
+}
+
+.photo-tour-container .header-content {
+  padding: 40px 10px;
+  max-width: 640px;
+  margin: 0 auto;
+  background: rgba(0,0,0,.5);
+}
+
+.photo-tour-container .header-content .h1 {
+  color: #FFF;
+  font-weight: 600;
+  font-family: 'Oswald', sans-serif;
+  font-size: 28px;
+}
+
+.photo-tour-container .header-content p {
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+  line-height: 36px;
+  font-size: 24px;
+}
+
+.photo-tour-container .photo-tour-link {
+  color: #FFF;
+  width: 180px;
+  margin: 0px auto;
+  text-decoration: none;
+  cursor: pointer;
+  display: block;
+  padding: 13px 5px;
+  background: #d3af1c;
+  border-radius: 5px;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 30px;
+}
+
+.photo-tour-container .photo-tour-link h4 {
+  margin-bottom: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+  padding: 40px 0;
+}
+

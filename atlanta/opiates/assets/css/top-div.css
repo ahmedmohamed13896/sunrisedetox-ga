@@ -1,0 +1,33 @@
+@media (max-width: 575px) {
+  .h2 strong, p strong {
+    display: block;
+  }
+}
+
+.top-div p {
+  padding: 15px;
+  margin-bottom: 0;
+  color: #FFF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-div {
+  background: #395c86;
+}
+
+@media (min-width: 1336px) {
+  .container {
+    max-width: 1280px !important;
+  }
+}
+
+@media (max-width: 1200px) and (min-width: 768px) {
+  .container {
+    display: block !important;
+  }
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+

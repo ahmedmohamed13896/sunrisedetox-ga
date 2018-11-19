@@ -1,0 +1,71 @@
+.why-sunrise {
+  padding: 40px 0;
+  background: #FFF;
+  padding-bottom: 20px;
+}
+
+.why-sunrise ul {
+  background-color: transparent;
+  line-height: 22px;
+  color: #222;
+  text-align: left;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 15px;
+}
+
+.why-sunrise .h1 {
+  margin-bottom: 40px;
+  font-weight: 600;
+  font-size: 36px;
+}
+
+.why-sunrise ul li {
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+.why-sunrise ul li:last-child {
+  padding-bottom: 0;
+}
+
+.color-dark {
+  color: #000 !important;
+}
+
+ul .question-mark {
+  float: left;
+  margin-bottom: 40px;
+}
+
+.why-sunrise-list {
+  padding: 10px;
+}
+
+.why-sunrise-img {
+  max-width: 430px;
+  max-height: 330px;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 1336px) {
+  .container {
+    max-width: 1280px !important;
+  }
+}
+
+@media (max-width: 1200px) and (min-width: 768px) {
+  .container {
+    display: block !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .why-sunrise ul {
+    padding-left: 30px;
+    padding-top: 20px;
+  }
+}
+

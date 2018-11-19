@@ -1,0 +1,113 @@
+.insurance div > p, .header > div > p {
+  line-height: 36px;
+  color: #222;
+  font-size: 20px;
+  margin: 0;
+}
+
+.insurance {
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+.insurance .companies {
+  margin: 0 auto;
+  width: 99%;
+  overflow: hidden;
+  text-align: center;
+}
+
+.insurance .company {
+  float: left;
+  width: calc( ( 100% / 5 ) - 20px );
+  height: 130px;
+  white-space: nowrap;
+  text-align: center;
+  margin: 10px 5px;
+  overflow: hidden;
+  box-shadow: 2px 2px 9px 0px #CCC;
+}
+
+.helper {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.company img {
+  vertical-align: middle;
+  max-height: 125px;
+  max-width: 145px;
+}
+
+@media (max-width: 991px) {
+  .insurance .company:first-of-type {
+    width: calc( ( 100% / 3 ) - 10px );
+  }
+}
+
+@media (max-width: 991px) {
+  .insurance .company:nth-of-type(2) {
+    width: calc( ( 100% / 3 ) - 10px );
+    height: 130px;
+  }
+}
+
+@media (max-width: 991px) {
+  .insurance .company:nth-of-type(3) {
+    width: calc( ( 100% / 3 ) - 10px );
+  }
+}
+
+@media (max-width: 991px) {
+  .insurance .company {
+    width: calc(50% - 10px);
+    margin: 10px 5px;
+  }
+}
+
+@media (max-width: 550px) {
+  .insurance .company {
+    width: 95% !important;
+  }
+}
+
+.color-dark {
+  color: #000 !important;
+}
+
+@media (max-width: 575px) {
+  .h2 strong, p strong {
+    display: block;
+  }
+}
+
+.color-blue {
+  color: #395c86 !important;
+}
+
+@media (min-width: 1336px) {
+  .container {
+    max-width: 1280px !important;
+  }
+}
+
+.bold {
+  font-weight: bold;
+}
+
+@media (max-width: 1200px) and (min-width: 768px) {
+  .container {
+    display: block !important;
+  }
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.insurance .h1 {
+  font-size: 36px;
+  font-weight: 600;
+}
+
