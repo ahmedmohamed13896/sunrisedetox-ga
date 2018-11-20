@@ -2,7 +2,7 @@
   overflow: hidden;
   padding: 20px 0 15px 0;
   border-width: 0px;
-  background-color: #F5EFE6;
+  background-color: #FFF;
 }
 
 .mynav .navbrand {
@@ -139,7 +139,7 @@
 }
 
 .arrow-bottom {
-  background: transparent url(../../assets/img/arrowmenudown.gif) no-repeat center center;
+  background: transparent url(arrowmenudown.gif) no-repeat center center;
   width: 14px;
   height: 14px;
   display: inline-block;
@@ -278,7 +278,7 @@
 
 .header .photo-tour-container {
   padding: 100px 0;
-  background: transparent url("../../assets/img//1-desktop-home-page-1800w.jpg") no-repeat center center;
+  background: transparent url("/1-desktop-home-page-1800w.jpg") no-repeat center center;
   background-size: cover;
   margin-top: 0;
 }
@@ -586,7 +586,6 @@
 .copyrights p {
   margin-bottom: 0;
   position: absolute;
-  bottom: 10px;
   color: #FFFFFF;
   text-align: center;
   font-size: 12px;
@@ -1720,7 +1719,7 @@ p {
 }
 
 .trusted-sunrise-back {
-  background: #C4C4C4 url(../../assets/img/lounge_dark.jpg) no-repeat center center;
+  background: #C4C4C4 url(lounge_dark.jpg) no-repeat center center;
   background-size: cover;
 }
 

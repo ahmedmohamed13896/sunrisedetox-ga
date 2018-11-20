@@ -148,6 +148,7 @@
 .footer .copyrights {
   display: block;
   overflow: hidden;
+  color: #FFF;
 }
 
 .footer .copyrights p {
@@ -186,6 +187,13 @@
     float: none;
     text-align: center;
     width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  .footer .copyrights p {
+    position: relative;
+    margin-bottom: 15px;
   }
 }
 

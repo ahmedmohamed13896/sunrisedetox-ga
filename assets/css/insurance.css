@@ -279,3 +279,9 @@ p {
   line-height: 19px;
 }
 
+@media (max-width: 767px) {
+  .custom-style strong {
+    display: block;
+  }
+}
+
