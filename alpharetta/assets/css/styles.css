@@ -109,7 +109,7 @@
 }
 
 .h1, h1 {
-  color: #000;
+  color: #2e2e2e;
   font-family: 'Oswald', sans-serif;
   padding: 0px;
   font-size: 36px;
@@ -149,7 +149,7 @@
   border-style: solid;
   border-width: 4px;
   border-color: #FFFFFF;
-  background-color: #d3af1c;
+  background-color: rgba(211,175,28,0.7);
   border-radius: 27px;
   color: #FFF;
   font-size: 26px;
@@ -168,7 +168,7 @@
 .header .thumbnail-link:hover {
   text-decoration: none;
   color: #FFF;
-  background-color: #d3af1c;
+  background-color: rgba(211,175,28,0.9);
   cursor: pointer;
 }
 
@@ -190,12 +190,12 @@
 }
 
 .header .thumbnail-link h4 {
-  padding: 15px 15px 15px 40px;
+  padding: 15px 15px 15px 30px;
   margin: 0;
   border-radius: 27px;
   cursor: pointer;
   font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 600;
 }
 
@@ -407,8 +407,8 @@
 }
 
 .h3-black {
-  color: #222;
-  font-family: 'Oswald', sans-serif;
+  color: #2e2e2e;
+  font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   font-weight: 600;
   padding: 0;

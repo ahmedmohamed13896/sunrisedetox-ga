@@ -29,7 +29,7 @@
 }
 
 .color-dark {
-  color: #000 !important;
+  color: #2e2e2e;
 }
 
 ul .question-mark {
@@ -69,7 +69,7 @@ ul .question-mark {
 }
 
 .h1, h1 {
-  color: #000;
+  color: #2e2e2e;
   font-family: 'Oswald', sans-serif;
   font-size: 44px;
   text-align: center;

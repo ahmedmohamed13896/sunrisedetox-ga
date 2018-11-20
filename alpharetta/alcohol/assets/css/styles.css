@@ -384,7 +384,7 @@
   text-align: left;
   padding: 10px 0px;
   line-height: 29px;
-  color: #222;
+  color: #2e2e2e;
 }
 
 .few-highlights .highlight-list {
@@ -616,8 +616,8 @@
 }
 
 .h3-black {
-  color: #222;
-  font-family: 'Oswald', sans-serif !important;
+  color: #2e2e2e;
+  font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   font-weight: 600;
   padding: 0;
@@ -625,7 +625,7 @@
 }
 
 .h3, h3 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   padding: 0px;
 }
@@ -699,7 +699,7 @@
   font-size: 36px;
   font-family: 'Oswald', sans-serif;
   text-align: left;
-  color: #000;
+  color: #2e2e2e;
 }
 
 .privacy-policy.active {
@@ -707,7 +707,7 @@
 }
 
 .body-text-dark {
-  color: #222;
+  color: #2e2e2e;
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   padding: 0;

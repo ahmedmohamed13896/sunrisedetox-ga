@@ -366,3 +366,11 @@ p {
   font-family: 'Montserrat', sans-serif;
 }
 
+.photo-tour-container .photo-tour-link:hover {
+  background: rgba(211,175,28,0.8);
+}
+
+.photo-tour-link:hover {
+  background: rgba(211,175,28,0.8);
+}
+

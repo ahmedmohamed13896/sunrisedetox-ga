@@ -73,7 +73,7 @@
 }
 
 .color-dark {
-  color: #000 !important;
+  color: #2e2e2e;
 }
 
 @media (max-width: 575px) {
@@ -109,5 +109,9 @@ p {
 .insurance .h1 {
   font-size: 36px;
   font-weight: 600;
+}
+
+.photo-tour-container .photo-tour-link:hover {
+  background: rgba(211,175,28,0.8);
 }
 

@@ -101,7 +101,7 @@ p {
 }
 
 .h1, h1 {
-  color: #000;
+  color: #2e2e2e;
   font-size: 36px;
   text-align: center;
   padding: 0px;
@@ -183,7 +183,7 @@ p {
 }
 
 .color-dark {
-  color: #000 !important;
+  color: #2e2e2e;
 }
 
 @media (max-width: 575px) {
