@@ -1,1 +1,0 @@
-ErrorDocument 404 /sunrisedetox-ga/alpharetta/404.html
