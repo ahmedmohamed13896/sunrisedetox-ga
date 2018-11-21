@@ -1698,7 +1698,7 @@ p {
 
 @media (max-width: 1336px) {
   .header .thumbnail-link {
-    margin: 0 70px !important;
+    margin: 0 10% !important;
   }
 }
 
