@@ -194,11 +194,6 @@
   right: 20px;
 }
 
-.insurance {
-  padding-top: 20px;
-  padding-bottom: 40px;
-}
-
 .helper {
   display: inline-block;
   height: 100%;
@@ -932,6 +927,7 @@
 .benzo-treatment-background {
   background: transparent url("../../assets/img/1-desktop-940x400-lounge.jpg") no-repeat center center !important;
   padding-top: 300px !important;
+  margin-bottom: 20px;
 }
 
 .jot-form-form {

@@ -194,11 +194,6 @@
   right: 20px;
 }
 
-.insurance {
-  padding-top: 30px;
-  padding-bottom: 40px;
-}
-
 @media (max-width: 767px) {
   .testimonials .right-para {
     margin-top: 20px;
