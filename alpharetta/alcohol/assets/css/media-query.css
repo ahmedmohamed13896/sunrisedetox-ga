@@ -1,0 +1,106 @@
+@media (max-width:1200px) {
+
+.comfortable-map-timing [class*="col-"] {-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;}
+
+.comfortable-map-timing ul li p {text-align: right;padding-right: 12px;}
+
+}
+
+@media (max-width:1024px) {
+	
+.comfortable-map-outer .map-timing-col, .comfortable-map-outer .map-middle-col {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;padding: 0 15px;}
+
+.comfortable-map-timing {padding-right: 0;}
+
+.right-col.col-4.map-timing-col {padding: 0 15px;}
+
+.map-middle-col {text-align: center;}
+
+.comfortable-map-timing ul li .col-4 {padding: 0 15px 0 0;text-align: right;}
+
+.product-slider-section {overflow-x: hidden;}
+
+#desktop-map-comfortable {display:none !important}
+
+#mobile-map-comfortable {display:block !important}
+
+}
+
+@media (max-width:991px) {
+	
+.header-second {text-align: center;}
+
+.pull-left, .pull-right {float: none;}
+
+.pull-right.header-right-logo {text-align: center !important;margin: 0;}
+
+.header-right-logo .d-flex {display: block !important;}
+
+.header-right-logo h5 {margin: 20px 0;padding-right: 0;}
+
+.why-sunrise-point ul {margin-top: 0;}
+
+.row.our-client-row .col {-ms-flex: 0 0 33.3333%;flex: 0 0 33.3333%;max-width: 33.3333%;margin-bottom: 30px;}
+
+.new-jersey-section .col-7, .new-jersey-section .col-5 {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;margin-top: 30px;}
+
+.product-slider-inner iframe {width: 100% !important;}
+
+#mobile-product-slider {display:block !important;}
+
+.slider-thumbnail ul.flex-direction-nav , #desktop-product-slider{display:none !important;}
+
+.new-jersey-section .comfortable-map-outer.row { flex-direction: column-reverse;}
+
+.comfortable-map-timing ul li p {padding-right:0}
+  
+}
+
+@media (max-width:767px) {
+	
+.why-sunrise-section .col {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;margin-bottom: 30px;}
+
+.why-sunrise-section {padding-bottom: 0;}
+
+.product-slider-inner iframe {height: 230px;}
+
+.flex-direction-nav a:before {height: 30px;width: 30px;background-size: 20px;}
+
+.flex-direction-nav a {height: 30px;width: 30px;}
+
+}
+
+@media (max-width:479px) {
+	
+.row.our-client-row .col {-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;margin-bottom: 10px;padding: 0 6px;}
+
+h2.section-title {font-size: 26px;}
+
+.why-sunrise-point ul li {font-size: 16px;}
+
+.safe-comfortable-section, .our-client-section, 
+.why-sunrise-section, .testimonial-section, .site-footer {padding: 30px 0;}
+
+.our-client-inner {height: 100px;}
+
+.our-client-inner img {max-height: 70px;max-width: 100px;}
+
+.testimonial-inner p {font-size: 14px;line-height: 22px;}
+
+.row.our-client-row {margin: 0 -6px;}
+
+.map-outer-div.text-center {margin: 20px 0 0;}
+
+.header-brand-logo ul li img {max-width: 35px;}
+
+.header-second {padding: 20px 0;}
+
+.top-header {padding: 5px 0;}
+
+.top-header p {font-size: 14px;}
+
+.safe-comfortable-section .sub-title {margin: 0;font-size: 16px;}
+
+.comfortable-map-timing h4 a {margin: 20px 0 10px;font-size: 18px;}
+
+}
